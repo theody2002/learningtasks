@@ -1,0 +1,40 @@
+body {
+  background-image: url(bground.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  font-size: 55px;
+  margin-top: 50px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 150;
+}
+p {
+  padding: 1px;
+  text-decoration: none;
+  text-transform: none;
+  font-size: 25px;
+  margin-top: 1px;
+  display: inline-block;
+  color:white;
+  text-align: left;
+  margin-left: 530px;
+  font-family: 'Noto Serif', serif;
+  
+}
+h2 {
+  font-size: 20px;
+  margin-top: 1px;
+  display: inline-block;
+  color:white;
+  text-align: left;
+  margin-left: 530px;
+  font-family: 'BIZ UDMincho', serif;
+}
