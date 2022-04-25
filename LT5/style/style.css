@@ -1,0 +1,49 @@
+body {
+    background-image: url(evabg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    padding: 0;
+  }
+  .box {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    width: 900px;
+    height: 400px;
+    padding: 20px;
+    box-sizing: border-box;
+   
+    border-radius: 4px;
+    box-shadow:  0 5px 15px rgba(0,0,0,.5);
+    display: flex;
+   
+  }
+  .box .imgbx {
+
+    width: 1500px;
+    flex: :0 0 150px ;
+  }
+
+  .box .content {
+    padding left:20px;
+  }
+  .box .content h2{
+    margin: 0;
+    padding-left: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 40px ;
+
+  }
+  .box .content p 
+  {
+    margin: 0;
+    padding-left: 15px;
+    text-align: justify;
+    color: rgb(255, 255, 255);
+  }
+   
