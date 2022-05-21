@@ -19,11 +19,11 @@ $page = (isset($_GET['page']) && $_GET['page'] != '') ? $_GET['page'] : '';
     </div>
     <section>
         <div class="wrapper-wrk">
-            <a href="Html files/CLE1MT/index.html" target="_blank">MIDTERM EXAM</a>
-            <a href="Html files/LT5/index.html" target="_blank">LEARNING TASK 5</a>
-            <a href="Html files/LT4/index.html" target="_blank">LEARNING TASK 4</a>
-            <a href="Html files/LT3/index.html" target="_blank">LEARNING TASK 3</a>
-            <a href="Html files/LT2/index.html" target="_blank">LEARNING TASK 2</a>
+            <a href="CLE1MT/index.html" target="_blank">MIDTERM EXAM</a>
+            <a href="LT5/index.html" target="_blank">LEARNING TASK 5</a>
+            <a href="LT4/index.html" target="_blank">LEARNING TASK 4</a>
+            <a href="LT3/index.html" target="_blank">LEARNING TASK 3</a>
+            <a href="LT2/index.html" target="_blank">LEARNING TASK 2</a>
         </div>
     </section>
     <script src="script.js"></script>
